@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lawrence Keklem
 - 👀 I’m interested in music and programming
 - 🌱 I’m currently learning Electrical and Elctronic Engineering in the Kwame Nkrumah University of Science and Technology.
-- 💞️ I’m looking to collaborate on [laughs]
+- 💞️ God loves everyone
 - 📫 How to reach me https://bio.link/lawrencenz
 
 <!---
