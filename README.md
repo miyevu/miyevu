@@ -2,7 +2,7 @@
 # Hi there 👋, I am Keklem
 ## I am Web Developer and a student at Kibo
 
-I am a tech enthusiast, ready to put my creativity on the internet through web designing. You can reach me on discord(discordapp.com/users/873889600207220767)
+I am a tech enthusiast, ready to put my creativity on the internet through web designing. You can reach me on discord and let's talk vibe.
 
 ### Skills and Experience
 * JS
