@@ -1,12 +1,13 @@
-### Hi there, 
-I’m Lawrence Keklem Yevudza from Ghana
-I’m interested in music and programming specifically web development.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyevu)](https://github.com/anuraghazra/github-readme-stats)
-- 🌱 I’m currently learning Electrical and Elctronic Engineering in the Kwame Nkrumah University of Science and Technology and Computer Science at Kibo School of Technology.
-- 💞️ God loves everyone
-- 📫 How to reach me https://bio.link/lawrencenz
+### Hi there 👋, my name is Keklem
+#### I am Web Developer and a student at Kibo
+![I am Web Developer and a student at Kibo](https://pbs.twimg.com/profile_banners/1167918055537745920/1697301253/600x200)
 
-<!---
-miyevu/miyevu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a tech enthusiast, ready to put my creativity on the internet through web designing. You can reach me on discord(discordapp.com/users/873889600207220767)
+
+Skills: JS / HTML / CSS / PYTHON
+
+- 🔭 I’m currently working on my development as a full stack developer 
+- 🌱 I’m currently learning python 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/miyevu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lawrence-keklem/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kerk_les)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](discordapp.com/users/873889600207220767)  
