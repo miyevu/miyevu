@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Keklem
 #### I am Web Developer and a student at Kibo
-![I am Web Developer and a student at Kibo](https://pbs.twimg.com/profile_banners/1167918055537745920/1697301253/600x200)
+![I am Web Developer and a student at Kibo]([https://pbs.twimg.com/profile_banners/1167918055537745920/1697301253/600x200](https://github.com/miyevu/miyevu/blob/main/github-header-image.png))
 
 I am a tech enthusiast, ready to put my creativity on the internet through web designing. You can reach me on discord(discordapp.com/users/873889600207220767)
 
