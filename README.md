@@ -3,11 +3,7 @@
 #### I am Fullstack Developer.
 
 # 💫 About Me:
-Hi there 👋, my name is Keklem<br>I am Fullstack Developer and a Computer Science student at Kibo<br>I am a tech enthusiast, ready to put my creativity on the internet through web designing. You can reach me on discord and let's vibe<br><br>🔭 I’m currently working on my development as a full stack developer<br>🌱 I’m currently learning python and javascript
-
-I am a tech enthusiast, ready to put my creativity on the internet through web designing. You can reach me on discord and let's vibe
-- 🔭 I’m currently working on my development as a full stack developer 
-- 🌱 I’m currently learning python 
+Hi there 👋, my name is Keklem<br>I am Fullstack Developer and a Computer Science student at Kibo<br>I am a tech enthusiast, ready to put my creativity on the internet through web designing. You can reach me on discord and let's vibe<br><br>🔭 I’m currently working on my development as a full stack developer<br>🌱 I’m currently learning python and javascript 
 
 ## LANGUAGES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyevu)](https://github.com/anuraghazra/github-readme-stats)
