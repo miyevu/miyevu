@@ -1,4 +1,3 @@
-![I am Frontend Developer and a student at Kibo]
 ### Hi there 👋, my name is Keklem.
 #### I am Frontend Developer.
 
